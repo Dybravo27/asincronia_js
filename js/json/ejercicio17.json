@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dylan Bravo",
+        "edad": 28,
+        "email": "dylan.bravo@gmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Jefier Briceño",
+        "edad": 34,
+        "email": "jefier.briceno@gmail.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Andres Castillo",
+        "edad": 22,
+        "email": "andres.castillo@gmail.com"
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Gomez",
+        "edad": 25,
+        "email": "ana.gomez@gmail.com"
+    },
+    {
+        "id": 5,
+        "nombre": "Laura Martinez",
+        "edad": 30,
+        "email": "laura.martinez@gmail.com"
+    },
+    {
+        "id": 6,
+        "nombre": "Carlos Pérez",
+        "edad": 27,
+        "email": "carlos.perez@gmail.com"
+    },
+    {
+        "id": 7,
+        "nombre": "Maria Ruiz",
+        "edad": 35,
+        "email": "maria.ruiz@gmail.com"
+    },
+    {
+        "id": 8,
+        "nombre": "Pedro González",
+        "edad": 40,
+        "email": "pedro.gonzalez@gmail.com"
+    },
+    {
+        "id": 9,
+        "nombre": "Sofia Martínez",
+        "edad": 24,
+        "email": "sofia.martinez@gmail.com"
+    },
+    {
+        "id": 10,
+        "nombre": "Luis Hernández",
+        "edad": 29,
+        "email": "luis.hernandez@gmail.com"
+    },
+    {
+        "id": 11,
+        "nombre": "Ricardo Torres",
+        "edad": 26,
+        "email": "ricardo.torres@gmail.com"
+    },
+    {
+        "id": 12,
+        "nombre": "Gabriela Sánchez",
+        "edad": 32,
+        "email": "gabriela.sanchez@gmail.com"
+    }
+]
+
