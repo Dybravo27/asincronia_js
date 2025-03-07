@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dylan Bravo",
+        "edad": 28,
+        "ciudad": "Madrid",
+        "profesion": "Desarrollador Web"
+    },
+    {
+        "id": 2,
+        "nombre": "Jefier Briceño",
+        "edad": 34,
+        "ciudad": "Valencia",
+        "profesion": "Ingeniero de Software"
+    },
+    {
+        "id": 3,
+        "nombre": "Andres Castillo",
+        "edad": 22,
+        "ciudad": "Barcelona",
+        "profesion": "Estudiante"
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Gomez",
+        "edad": 25,
+        "ciudad": "Sevilla",
+        "profesion": "Abogada"
+    },
+    {
+        "id": 5,
+        "nombre": "Laura Martinez",
+        "edad": 30,
+        "ciudad": "Bilbao",
+        "profesion": "Marketing Digital"
+    },
+    {
+        "id": 6,
+        "nombre": "Carlos Pérez",
+        "edad": 27,
+        "ciudad": "Madrid",
+        "profesion": "Arquitecto"
+    },
+    {
+        "id": 9,
+        "nombre": "Sofia Martínez",
+        "edad": 24,
+        "ciudad": "Alicante",
+        "profesion": "Artista"
+    },
+    {
+        "id": 10,
+        "nombre": "Luis Hernández",
+        "edad": 29,
+        "ciudad": "Zaragoza",
+        "profesion": "Diseñador Gráfico"
+    },
+    {
+        "id": 11,
+        "nombre": "Ricardo Torres",
+        "edad": 26,
+        "ciudad": "Málaga",
+        "profesion": "Periodista"
+    }
+]
