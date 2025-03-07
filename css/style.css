@@ -86,7 +86,7 @@ body{
     height: 70%;
 }
 .contenido--sombra_fondo_blanco{
-    height: 60%;
+    height: 80%;
     background-color: var(--blanco);
     padding: 40px;
     border-radius: 20px;
@@ -96,7 +96,7 @@ body{
 .contenido__titulo{
     color: var(--blanco);
     font-weight: 700;
-    font-size: 4rem;
+    font-size: 3.5rem;
     text-shadow: 0 3px 3px var(--vino_tinto),
     0 4px 4px var(--vino_tinto),
     0 5px 8px var(--blanco),
